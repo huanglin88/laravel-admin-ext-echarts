@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext-echarts",
+    "name": "huanglin88/laravel-admin-ext-echarts",
     "description": "Use Echarts in laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "echarts"],
