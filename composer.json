@@ -1,14 +1,14 @@
 {
-    "name": "cyd622/laravel-admin-ext-echarts",
+    "name": "laravel-admin-ext-echarts",
     "description": "Use Echarts in laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "echarts"],
-    "homepage": "https://github.com/cyd622/laravel-admin-ext-echarts",
+    "homepage": "https://github.com/huanglin88/laravel-admin-ext-echarts.git",
     "license": "MIT",
     "authors": [
         {
-            "name": "cyd622",
-            "email": "luffywang622@gmail.com"
+            "name": "huanglin88",
+            "email": "775886653@qq.com"
         }
     ],
     "require": {

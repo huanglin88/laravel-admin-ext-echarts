@@ -7,7 +7,8 @@ Use Echarts in laravel-admin
 ## Installation
 
 ```bash
-composer require cyd622/laravel-admin-ext-echarts
+composer require huanglin88/laravel-admin-ext-echarts.git
+
 
 php artisan vendor:publish --tag=echarts
 ```
@@ -20,7 +21,7 @@ Open `config/echarts.php`, set configurations .
 
     [
         'view' => 'echarts::index',
-        'water_mark_text' => 'Cyd622@Laravel-Admin',
+        'water_mark_text' => '775886653@qq.com',
         'theme' => 'shine',
     ];
 
